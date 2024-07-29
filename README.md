@@ -1,6 +1,6 @@
 # Excel-XBRL-Excel-CBRF-Converter
 The software converts Excel to XBRL and vice versa.
 
-mihailorama@datatera.io
+michael@cloudlab.studio
 
-Copyright, 2017-2022, Excel-XBRL-Excel Converter
+Copyright, 2017-2024, Excel-XBRL-Excel Converter
